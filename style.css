@@ -1,0 +1,84 @@
+.header{
+    width: 700px;
+    height: 500px;
+    background-color:gray;
+    margin-top: 60px;
+    margin-left: 300px;
+    border-radius: 10px 10px;
+}
+.information{
+    background-color:rgb(235, 234, 234);
+    height: 200px;
+    padding:10px 40px;
+}
+.join{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    white-space: 20px;
+    color: rgb(35, 161, 161);
+}
+.duration{
+    color: rgb(141, 201, 21);
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.gain{
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(133, 132, 132);
+}
+.section{
+    display: flex;
+    flex-direction: row;
+}
+.month{
+    background-color: rgb(30, 160, 160);
+    width: 350px;
+    height: 300px;
+    padding-left: 30px;
+}
+.subscribe{
+    font-size: 20px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+span{
+    font-size: 15px;
+    color: rgb(224, 224, 224);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.amount{
+    font-size: 30px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.condition{
+    color: white;
+    font-size: 17px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+button{
+    width: 210px;
+    height: 40px;
+    font-size: 20px;
+    background-color: rgb(84, 240, 84);
+    border: 2px solid rgb(84, 240, 84);
+    color: white;
+    border-radius: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.bout{
+    width: 350px;
+    height: 300px;
+    background-color: rgb(27, 182, 182);
+    color: white;
+    padding-left: 30px;
+}
+.reason{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.reasons{
+    font-size: 12px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
